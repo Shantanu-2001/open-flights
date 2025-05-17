@@ -1,0 +1,8 @@
+log/*
+tmp/*
+*.log
+*.tmp
+node_modules
+vendor/bundle
+.env
+.DS_Store
